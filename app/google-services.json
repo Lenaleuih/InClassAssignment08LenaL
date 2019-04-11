@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "755168516143",
+    "firebase_url": "https://inclassassignment07lenal.firebaseio.com",
+    "project_id": "inclassassignment07lenal",
+    "storage_bucket": "inclassassignment07lenal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755168516143:android:88533acd7e0b88ad",
+        "android_client_info": {
+          "package_name": "com.example.android.inclassassignment07_lenal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755168516143-0e9ms96e68svmshtavi1tj4b4ns1p9es.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.inclassassignment07_lenal",
+            "certificate_hash": "f468a371b6fe428d18dc4dc05f80fecfa87dc012"
+          }
+        },
+        {
+          "client_id": "755168516143-rtiinjqv9nngfo8ab6382cam76ph46s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC11f77WvKRenPa16s5MgP1r-CiF0bU6LY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755168516143-rtiinjqv9nngfo8ab6382cam76ph46s7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
